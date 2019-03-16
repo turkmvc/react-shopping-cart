@@ -1,11 +1,6 @@
-## 🛍️ Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
+## Simple ecommerce cart application 
 
-<p align="center">
-
-  <img src="./doc/react-shopping-cart-min.gif">
-</p>
-
-## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
+## Basic Overview 
 
 This simple shopping cart prototype shows how React components and Redux can be used to build a
 friendly user experience with instant visual updates and scaleable code in ecommerce applications.
@@ -58,14 +53,3 @@ npm run wdio
 - e2e
   - Webdriverio - Add and remove product from cart
 
-### Copyright and license
-
-The MIT License (MIT). Please see License File for more information.
-
-<br/>
-<br/>
-
-<p align="center"><img src="https://avatars2.githubusercontent.com/u/20846473?s=70&v=4" width="35" height="35"/></p>
-<p align="center">
-<sub>A little project by <a href="http://www.jeffersonribeiro.com/">Jefferson Ribeiro</a></sub>
-</p>
